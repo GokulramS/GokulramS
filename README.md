@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GokulramS
-- 👀 I’m interested in ...DATA SCIENEC
+- 👀 I’m interested in ...DATA SCIENCE
 - 🌱 I’m currently learning ...DATA SCIENCE
 - 
 
